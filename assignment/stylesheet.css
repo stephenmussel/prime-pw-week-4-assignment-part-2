@@ -1,3 +1,11 @@
+
+/* POST Assignment Submission: added header element with properties */
+header {
+  background-color: blue;
+  color: AliceBlue;
+}
+
+
 .info, h2 {
   background-color: AliceBlue;
   color: green;
@@ -9,7 +17,8 @@
   margin-right: auto;
 }
 
+/* POST Assignment Submission: adjusted text color for better legibility */
 h3 {
   background-color: green;
-  color: lightGreen;
+  color: AliceBlue;
 }
